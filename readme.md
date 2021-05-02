@@ -1,0 +1,1 @@
+<code>sudo docker-compose up --build</code> - Запуск docker-compose
